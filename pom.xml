@@ -4,7 +4,8 @@
 
   <groupId>core</groupId>
   <artifactId>Title_Validation_E2E_EndToEnd</artifactId>
-  <version>${build.version}</version>
+  <version>1.41.1</version>
+  <!-- <version>${build.version}</version> -->
   <packaging>jar</packaging>
 
   <name>Title_Validation_E2E_EndToEnd</name>
